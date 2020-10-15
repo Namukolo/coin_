@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "848670042439",
+    "firebase_url": "https://coin-f1772.firebaseio.com",
+    "project_id": "coin-f1772",
+    "storage_bucket": "coin-f1772.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:848670042439:android:51f3d6ca17905206d80462",
+        "android_client_info": {
+          "package_name": "com.originSolutions.coin_loyalty"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "848670042439-vjaunf8u0q2bimlpvrvhl0p3bqqua50h.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.originSolutions.coin_loyalty",
+            "certificate_hash": "fb1af9c90b351944be55537787473f580e374e37"
+          }
+        },
+        {
+          "client_id": "848670042439-28cid8rcu1ubou0lbj9k4fkf1bcd0m30.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCjlHaesEdQBe1UvGB--7mphbkP-tXLw50"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "848670042439-28cid8rcu1ubou0lbj9k4fkf1bcd0m30.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
